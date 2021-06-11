@@ -1,6 +1,6 @@
 ﻿# FSAE Racing
  
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+Why watch drive to survive when you can spend all year making your own F1 car instead!!!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
