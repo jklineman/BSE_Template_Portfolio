@@ -13,7 +13,6 @@ Why watch drive to survive when you can spend all year making your own F1 car in
 
 
 
-
   
 # Final Milestone
 My final milestone is to have a competition level FSAE car!
