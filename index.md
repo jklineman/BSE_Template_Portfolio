@@ -9,7 +9,7 @@ Why watch drive to survive when you can spend all year making your own F1 car in
 
 ![Car in Action](https://media.giphy.com/media/Z9D7qnRG7xEgy2TWsP/giphy.gif)
 
-![20180717_202644](https://user-images.githubusercontent.com/56967237/122599782-e09e0680-d03c-11eb-8cf8-70be20d15932.jpg)
+![20180717_202644](https://user-images.githubusercontent.com/56967237/122599782-e09e0680-d03c-11eb-8cf8-70be20d15932.jpg | width=100)
 
 
 
