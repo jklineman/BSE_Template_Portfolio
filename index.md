@@ -1,4 +1,4 @@
-![20180717_202644](https://user-images.githubusercontent.com/56967237/122593084-26ee6800-d033-11eb-8597-a2a8ea39c3a4.jpg)
+
 ﻿# FSAE Racing
  
 Why watch drive to survive when you can spend all year making your own F1 car instead!!!
@@ -9,7 +9,9 @@ Why watch drive to survive when you can spend all year making your own F1 car in
 
 ![Car in Action](https://media.giphy.com/media/Z9D7qnRG7xEgy2TWsP/giphy.gif)
 
-![20180717_202644 1](https://user-images.githubusercontent.com/56967237/122592849-d5de7400-d032-11eb-8d99-d1956a7397fe.jpg)
+<html>
+<img src="https://drive.google.com/file/d/1N8nCpdlsaHFISm3N7E_FIIF5GmZJZa6f/preview" width="640" height="480"></img>
+</html>
 
 
   
