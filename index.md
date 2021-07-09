@@ -8,6 +8,8 @@ Why watch drive to survive when you can spend all year making your own F1 car in
 | Jesse Klineman | University of Maryland | Mechanical Engineering | Incoming Senior
 
 ![Car in Action](https://media.giphy.com/media/Z9D7qnRG7xEgy2TWsP/giphy.gif)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56967237/125086366-8f13f500-e099-11eb-8973-2b9b11e32c91.gif)
+
 
 ![](https://user-images.githubusercontent.com/56967237/122599782-e09e0680-d03c-11eb-8cf8-70be20d15932.jpg)
 <img src="https://user-images.githubusercontent.com/56967237/122599782-e09e0680-d03c-11eb-8cf8-70be20d15932.jpg" width="100" height="100">
