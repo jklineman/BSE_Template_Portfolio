@@ -25,7 +25,7 @@ My final milestone is to have a competition level FSAE car!
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1623446497/video_to_markdown/images/youtube--gC7nPNMq_IM-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gC7nPNMq_IM "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Code
-```Arduino
+```python
 void setup() {
   // put your setup code here, to run once:
 pinMode(7,OUTPUT);
