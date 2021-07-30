@@ -24,4 +24,4 @@ My first milestone was programming my motors to move change direction. Once I se
 
 
 #Diagram of Raspberry Pi Attachments
-[Diagram](https://user-images.githubusercontent.com/88009393/127663961-c232e023-24a3-4d40-ae7d-74458c57592e.png)
+![Diagram](https://user-images.githubusercontent.com/88009393/127663961-c232e023-24a3-4d40-ae7d-74458c57592e.png)
