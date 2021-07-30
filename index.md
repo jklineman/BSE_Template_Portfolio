@@ -1,5 +1,5 @@
-﻿# Ball Detecting Robot with Raspberry PI
-I am working on a Raspberry Pi Machine Learning model which will detech a ball and a robot will move towards it.
+﻿# Ball Detecting Robot with Raspberry Pi
+I am working on a Raspberry Pi Machine Learning model which will detect a ball and a robot will move towards it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
