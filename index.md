@@ -3,7 +3,7 @@ I am working on a Raspberry Pi Machine Learning model which will detect a ball a
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Ayush Pillai | Groton School | Engineer| Incoming Junior
+| Ayush P | Groton School | Engineer| Incoming Junior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
 ![Name of final image]  
