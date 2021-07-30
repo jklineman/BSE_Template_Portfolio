@@ -25,3 +25,63 @@ My first milestone was programming my motors to move change direction. Once I se
 
 # Diagram of Raspberry Pi Attachments
 ![Diagram](https://user-images.githubusercontent.com/88009393/127663961-c232e023-24a3-4d40-ae7d-74458c57592e.png)
+
+# My Python Code for the Motors
+
+```python
+import RPi.GPIO as GPIO
+from time import sleep
+
+GPIO.setmode(GPIO.BCM)
+GPIO.setwarnings(False)
+
+class Motor():
+    def __init__(self,Ena,In1,In2,Enb,In3,In4): #initialization function that will run the first time
+        self.Ena = Ena
+        self.In1 = In1
+        self.In2 = In2
+        self.Enb = Enb
+        self.In3 = In3
+        self.In4 = In4
+        GPIO.setup(self.Ena,GPIO.OUT)
+        GPIO.setup(self.In1,GPIO.OUT)
+        GPIO.setup(self.In2,GPIO.OUT)
+        GPIO.setup(self.Enb,GPIO.OUT)
+        GPIO.setup(self.In3,GPIO.OUT)
+        GPIO.setup(self.In4,GPIO.OUT)
+        self.pwm = GPIO.PWM(self.Ena,100)
+        self.pwm = GPIO.PWM(self.Enb,100)
+        self.pwm.start(0)
+        
+    def moveF(self,x=50,t=0):
+        GPIO.output(self.In1,GPIO.LOW)
+        GPIO.output(self.In2,GPIO.HIGH)
+        GPIO.output(self.In3,GPIO.LOW)
+        GPIO.output(self.In4,GPIO.HIGH)
+        self.pwm.ChangeDutyCycle(x) #default speed is 50 but the user can change it 
+        sleep(t)
+              
+    def moveB(self,x=50,t=0):
+        GPIO.output(self.In1,GPIO.HIGH)
+        GPIO.output(self.In2,GPIO.LOW)
+        GPIO.output(self.In3,GPIO.HIGH)
+        GPIO.output(self.In4,GPIO.LOW)
+        self.pwm.ChangeDutyCycle(x) #default speed is 50 but the user can change it 
+        sleep(t)
+        
+    def stop(self,t=0):
+        self.pwm.ChangeDutyCycle(0)
+        GPIO.output(self.In1,GPIO.LOW)
+        GPIO.output(self.In2,GPIO.LOW)
+        GPIO.output(self.In3,GPIO.LOW)
+        GPIO.output(self.In4,GPIO.LOW)
+        sleep(t)
+        
+motor1 = Motor(22,27,17,23,24,25)
+
+while True:
+    motor1.moveF(30,3)
+    motor1.stop(2)
+    motor1.moveB(30,3)
+    motor1.stop(2)
+```
